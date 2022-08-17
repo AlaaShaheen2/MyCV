@@ -2,7 +2,8 @@
 this my personal cv I did by using only HTML & CSS
 feel free to check it 
 
-
+# Demo Live:
+MY-CV : [@Alaa Shaheen CV](https://alaashaheen2.github.io/MyCV/)
 ## Built With
 
 - HTML/CSS
@@ -21,7 +22,6 @@ feel free to check it
 **Setting up My Personal Portolio task**
 
 ## Authors
-👤 **Simon Gideon**
 👤 **Alaa Shaheen**
 
 - GitHub: [@AlaaShaheen2](https://github.com/AlaaShaheen2)
